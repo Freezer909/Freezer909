@@ -4,7 +4,7 @@ My name is **Viktors**, im a second-year programmer technician student at **Liep
 
 My passion is making games and displaying my ideas using every game engine there is. I love participating in **Game Jam** events and any other competitions I can find. 
 
-I have plenty of experience working in a team from the Game Jams I’ve joined with my mini-team **"Trash and the gang"** <br>— shoutout to <a href="https://github.com/sams7891" target="_blank">Rodrigo</a> and <a href="https://github.com/eclipsevoidd" target="_blank">Gustavs</a>! :)
+I have plenty of experience working in a team from the Game Jams I’ve joined with my mini-team **"Trash and the gang"** <br>— shoutout to [Rodrigo](https://github.com/sams7891) and [Gustavs](https://github.com/eclipsevoidd)! :)
 
 ---
 
@@ -52,7 +52,7 @@ I have plenty of experience working in a team from the Game Jams I’ve joined w
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://gamemaker.io/" target="_blank">
-    <img src="https://yt3.googleusercontent.com/eq8ykgnZDNAjbBghjfipLWmBwC_rPIQSNYcZyBpvmhrp1yh14uBn0bv3qbbPrek9V9v3UzDH=s900-c-k-c0x00ffffff-no-rj" alt="gamemaker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemaker/gamemaker-original.svg" alt="gamemaker" width="40" height="40"/>
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
