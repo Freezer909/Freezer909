@@ -14,7 +14,7 @@ I have plenty of experience working in a team from the Game Jams I’ve joined w
   <tr>
     <td width="50%">
       <a href="https://github.com/eclipsevoidd/ProjektsLiepaja">
-        <img src="https://private-user-images.githubusercontent.com/170235800/556664979-be7a5c02-23ad-4ba4-a8c2-5c2814329cb2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMyNTc3NzYsIm5iZiI6MTc3MzI1NzQ3NiwicGF0aCI6Ii8xNzAyMzU4MDAvNTU2NjY0OTc5LWJlN2E1YzAyLTIzYWQtNGJhNC1hOGMyLTVjMjgxNDMyOWNiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxMVQxOTMxMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04Mjc0OTJjOTg1NzU5ZDEwYmFmY2ViMzBmMjZiYjVjMjM1MDYxNTQ0ZTNmODNlYzM4Mjc2MGY3MzFkMmNhMjBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6KNzm4w2Uax-pNF0FUpW6vNrbU_gkHjQFkan9Drx7uE" alt="Ekskursija Pa Liepaju" style="width:100%;">
+      <img width="1913" height="1071" alt="image" src="https://github.com/user-attachments/assets/3b7e13b4-f4bb-46fb-b949-febc548ed148" style="width:100%;"/>
       </a>
       <p align="center"><b>Ekskursija Pa Liepaju</b></p>
     </td>
