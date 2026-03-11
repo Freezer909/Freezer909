@@ -13,7 +13,7 @@ I have plenty of experience working in a team from the Game Jams I’ve joined w
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Freezer909/ProjektsLiepaja">
+      <a href="[https://github.com/Freezer909/ProjektsLiepaja](https://github.com/eclipsevoidd/ProjektsLiepaja)">
         <img src="https://via.placeholder.com/400x200?text=Ekskursija+Pa+Liepaju" alt="Ekskursija Pa Liepaju" style="width:100%;">
       </a>
       <p align="center"><b>Ekskursija Pa Liepaju</b></p>
