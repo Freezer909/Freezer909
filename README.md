@@ -4,7 +4,7 @@ My name is **Viktors**, im a second-year programmer technician student at **Liep
 
 My passion is making games and displaying my ideas using every game engine there is. I love participating in **Game Jam** events and any other competitions I can find. 
 
-I have plenty of experience working in a team from the Game Jams I’ve joined with my mini-team **"Trash and the gang"** <br>— shoutout to [Rodrigo](https://github.com/sams7891) and [Gustavs](https://github.com/eclipsevoidd)! :)
+I have plenty of experience working in a team from the Game Jams I’ve joined with my mini-team **"Trash and the gang"** <br>— shoutout to <a href="https://github.com/sams7891" target="_blank">Rodrigo</a> and <a href="https://github.com/eclipsevoidd" target="_blank">Gustavs</a>! :)
 
 ---
 
